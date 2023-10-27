@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm THOTA MANI GOPAL</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer | Designer | Creative Thinker</p>
+    </header>
 
-- 🔭 I’m currently working on **python**
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
 
-- 🌱 I’m currently learning **Salesforce**
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Write a brief introduction about yourself and your skills.</p>
+    </section>
 
-- 👯 I’m looking to collaborate on **web development**
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <!-- Include your projects here -->
+    </section>
 
-- 📫 How to reach me **manigopalthota012@gmail.com**
-
-<h3 align="left">Connect with me💙</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>You can reach me at your.email@example.com</p>
+    </section>
+</body>
+</html>
