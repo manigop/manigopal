@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Portfolio</title>
+    <title>THOTA MANI GOPAL - Portfolio</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>THOTA MANI GOPAL</h1>
         <p>Web Developer | Designer | Creative Thinker</p>
     </header>
 
